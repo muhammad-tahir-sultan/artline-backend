@@ -13,8 +13,8 @@ const Footer = () => {
                                     <h3>Artline<span>.</span></h3>
                                     <p>
                                         DHA Phase 5, Main Office Building Lahore <br />
-                                        <strong>Phone:</strong> +92 326 7985198<br />
-                                        <strong>Email:</strong> artline@gmail.com<br />
+                                        <strong>Phone:</strong> +92 300 7323776<br />
+                                        <strong>Email:</strong> artline147@gmail.com<br />
                                     </p>
                                 </div>
                                 <div className="col-lg-2 col-md-6 footer-links">
